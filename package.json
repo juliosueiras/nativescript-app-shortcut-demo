@@ -1,8 +1,7 @@
 {
-  "description": "NativeScript Application",
-  "license": "SEE LICENSE IN <your-license-filename>",
-  "readme": "NativeScript Application",
-  "repository": "<fill-your-repository-here>",
+  "description": "Android 7.1 App Shortcut using NativeScript",
+  "readme": "README.md",
+  "repository": "https://github.com/juliosueiras/nativescript-app-shortcut-demo",
   "nativescript": {
     "id": "org.nativescript.shortcutdemo",
     "tns-android": {
