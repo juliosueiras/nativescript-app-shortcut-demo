@@ -32,7 +32,7 @@ application.android.on(AndroidApplication.activityCreatedEvent, function (args) 
         .setShortLabel("Demo Shortcut 1")
         .setLongLabel("Demo Shortcut 1 Long")
         .setIcon(Icon.createWithResource(context, R.drawable.icon))
-        .setIntent(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.mysite.example.com/")))
+        .setIntent(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/juliosueiras/nativescript-app-shortcut-demo/")))
         .build();
     var shortcuts = [shortcut];
 
