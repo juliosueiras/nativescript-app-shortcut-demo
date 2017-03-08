@@ -3,7 +3,7 @@
   "readme": "README.md",
   "repository": "https://github.com/juliosueiras/nativescript-app-shortcut-demo",
   "scripts": {
-    "postinstall": "tns platform add android"
+    "postinstall": "./postinstall"
   },
   "nativescript": {
     "id": "org.nativescript.shortcutdemo",

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+./node_modules/.bin/tns platform add android
+./node_modules/.bin/tns build android
