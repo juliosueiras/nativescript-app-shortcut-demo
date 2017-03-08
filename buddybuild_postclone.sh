@@ -11,3 +11,4 @@ tns --version
 # Prepare NativeScript Project
 echo "******** Prepare NativeScript iOS && Android Project *************"
 tns prepare android
+sed -i 's/23/25/g' platforms/android/build.gradle 
