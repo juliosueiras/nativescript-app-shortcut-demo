@@ -2,9 +2,6 @@
   "description": "Android 7.1 App Shortcut using NativeScript",
   "readme": "README.md",
   "repository": "https://github.com/juliosueiras/nativescript-app-shortcut-demo",
-  "scripts": {
-    "postinstall": "./postinstall"
-  },
   "nativescript": {
     "id": "org.nativescript.shortcutdemo",
     "tns-android": {
@@ -12,7 +9,6 @@
     }
   },
   "dependencies": {
-    "nativescript": "^2.5.2",
     "nativescript-theme-core": "~1.0.2",
     "tns-core-modules": "2.5.1"
   },
